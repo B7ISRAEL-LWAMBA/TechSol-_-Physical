@@ -1,2 +1,2 @@
-# TechSol-_-Physical
+# TechSol _ Physical
 TechSol Team Repository
